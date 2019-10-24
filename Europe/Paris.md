@@ -6,6 +6,7 @@ Paris, France's capital, is a major European city and a global center for art, f
 
 * Eiffel Tower
 * Musée du Louvre
+* Cathédrale Notre-Dame de Paris
 
 ## To Eat/Drink
 
@@ -14,14 +15,14 @@ Paris, France's capital, is a major European city and a global center for art, f
 * Un lutin dans le jardin
 * Zebra
 * Oiseau Blanc at The Peninsula
-* Le Louvre
 * La machine à coude , Boulogne_Billancourt
+* Le Crocodile
 
 ## Parks
 
 * Bois de Boulogne
 * Bois de Vincennes
-*
+* [Jardin des Tuileries](https://www.parisinfo.com/musee-monument-paris/71304/Jardin-des-Tuileries)
 
 ## Additional links
 
